@@ -1,4 +1,4 @@
-Coder Manual Project Application
+Coder Manual Projectg Application
 Subscription-based web application
 http://codermanual.com
 
